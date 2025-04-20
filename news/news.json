@@ -1,0 +1,12 @@
+{
+    "news": [
+        {
+            "title": "The new news section.",
+            "Author": "Sword Client",
+            "unixtime": 1734183120,
+            "subtitle": "The news from Sword.",
+            "body": "Welcome to Sword Client!", 
+            "img": ""
+        }
+    ]
+}
